@@ -101,9 +101,9 @@ section .image img {}
   .share span {font-weight: bold; color: #333; font-size: .8em; float:left; line-height: 24px; margin-right: 10px;}
   .share a {display: inline-block; width: 24px; height: 24px; }
 
-table.gallery { width: 100%; border:0; }
-table.gallery td { text-align: center; }
-table.gallery img { max-width: 250px; border: 2px solid #cfcfcf; }
+table { width: 100%; border:0; }
+table td { text-align: center; }
+table img { max-width: 350px; border: 2px solid #cfcfcf; }
 
 /*sprite*/
 i {background-image: url('../images/sprites.png'); background-repeat: no-repeat;display:inline-block;}
