@@ -1,0 +1,14 @@
+{
+    "PortNum": 9999,
+    "TemplateDir": "basic",
+    "PublicDir": "public",
+    "FormatDate": "2006-01-02 03:04pm",
+    "Less": ["--compress"],
+    "ExpireTime": {
+      "Html": 30,
+      "Css": 90,
+      "Javascript": 90,
+      "Image": 365,
+      "Index": 10
+    }
+}

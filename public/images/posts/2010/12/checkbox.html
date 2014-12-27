@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <title>jQuery - Selecionar todos os checkbox de um formulário</title>
+		<meta name="robots" content="noindex,nofollow" />
+		<script type="text/javascript" src="http://fizpramim.com/js/jquery.js"></script>
+		<script type="text/javascript">
+		(function() {
+			jQuery(function() {
+				// Procura pelos <input type="checkbox" name="_discart"> para adicionar
+				// o evento de click
+				jQuery("form input[type='checkbox'][name='_discart']").each(function(i, o) {
+					// adiciona um evento
+					jQuery(this).click(function() {
+						// Define o atributo 'checked' dos campos em relação ao checkbox 'chave'
+						jQuery(this).parent().find("input[type='checkbox']").attr("checked", this.checked ? "checked" : "");
+					});
+
+
+					// Adiciona nos demais checkbox um evento para quando um deles
+					// for selecionado, verificar se o checkbox 'chave' deve ser
+					// selecionado ou não.
+					jQuery(this).parent().find("input[type='checkbox'][name!='_discart']").click(function() {
+						var total_checkbox     = jQuery(this).parent().find("input[type='checkbox'][name!='_discart']").length;
+						var total_selecionados = jQuery(this).parent().find("input[type='checkbox'][name!='_discart']:checked").length
+
+						jQuery(this).parent().find("input[type='checkbox'][name='_discart']").attr("checked", total_checkbox == total_selecionados ? "checked" : "");
+					});
+				}); // END each
+			})
+		})();
+		</script>
+</head>
+<body>
+    
+		<h1>jQuery ? Selecionar todos os checkbox de um formulário</h1>
+		<p>Arquivo exemplo para o post <a href="http://gustavopaes.net/?p=411">jQuery - Selecionar todos os checkbox de um formulário</a></p>
+		
+		<form name="formulario1">
+			<div>
+				<label for="form1:name">Nome: </label>
+				<input type="text" name="form1:name" id="form1:name" />
+			</div>
+			
+			<div>
+				<label>Opções</label>
+				<input type="checkbox" name="opcoes[]" value="opção 1" /> Opção 1
+				<input type="checkbox" name="opcoes[]" value="opção 2" /> Opção 2
+				<input type="checkbox" name="opcoes[]" value="opção 3" /> Opção 3
+				<input type="checkbox" name="opcoes[]" value="opção 4" /> Opção 4
+				<input type="checkbox" name="_discart" value="" /> Todas as opções
+			</div>
+		</form>
+
+		<br /><br /><br />
+
+		<form name="formulario2">
+			<div>
+				<label for="form1:name">Nome: </label>
+				<input type="text" name="form1:name" id="form1:name" />
+			</div>
+			
+			<div>
+				<label>Opções</label>
+				<input type="checkbox" name="opcoes[]" value="opção 1" /> Opção 1
+				<input type="checkbox" name="opcoes[]" value="opção 2" /> Opção 2
+				<input type="checkbox" name="opcoes[]" value="opção 3" /> Opção 3
+				<input type="checkbox" name="opcoes[]" value="opção 4" /> Opção 4
+				<input type="checkbox" name="_discart" value="" /> Todas as opções
+			</div>
+		</form>
+
+</body>
+</html>

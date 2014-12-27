@@ -1,0 +1,36 @@
+{{ template "header.html" . }}
+
+  {{ range $index, $item := .Pages }}
+    <div class="article">
+      <h1>
+        <small class="p-info text">{{ .Date.Format "Jan, 02 2006"  }}</small>
+        <a href="{{ .Url }}">{{ .Title }}</a>
+      </h1>
+      <p>
+        <span>{{ .Params.description }}</span>
+        <a href="{{ .Url }}" rel="nofollow">Continuar lendo »</a>
+      </p>
+    </div>
+
+    {{ if eq 0 (remainder $index 10) }}
+    <div class="publicidade banner-728x90">
+      <!-- lista posts -->
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:728px;height:90px"
+           data-ad-client="ca-pub-0970384474167727"
+           data-ad-slot="8343547406"></ins>
+      <script type="text/javascript">
+      Banner('8343547406')
+      </script>
+    </div>
+    {{ end }}
+
+  {{ else }}
+      Nenhum conteúdo neste diretório
+  {{ end }}
+
+{{ template "footer.html" . }}
+
+
+
+

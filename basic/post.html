@@ -1,0 +1,23 @@
+{{ template "header.html" . }}
+
+  <header>
+    <h1 class="title">{{ .Title }}</h1>
+
+    {{ if not .Params.nodate }}
+      <small><a href="https://plus.google.com/110398803547090430421?rel=author">{{ .Params.author }}</a>, {{ .Date.Format "02/01/2006"  }}</small>
+	  {{ end }}
+  </header>
+
+  <div class="publicidade banner-250x250">
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:250px;height:250px"
+         data-ad-client="ca-pub-0970384474167727"
+         data-ad-slot="2759783009"></ins>
+    <script type="text/javascript">
+    Banner('2759783009')
+    </script>
+  </div>
+
+  {{ .Content }}
+
+{{ template "footer.html" . }}

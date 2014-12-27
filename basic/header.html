@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width">
+  <meta name="robots" content="{{ if .Params.robots }}{{ .Params.robots }}{{ else }}index,follow{{ end }}" />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  {{ if .Params.description }}
+  <meta name="description" content="{{ .Params.description }}" />
+  <meta property="og:description" content="{{ .Params.description }}" />
+  {{ end }}
+
+  <title>GustavoPaes.Net - {{ .Title }}</title>
+
+  <meta property="fb:app_id" content="117539528277185" />
+  <meta property="og:site_name" content="Gustavo Paes" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:url" content="" />
+  
+  <meta property="og:type" content="article" />
+  <meta property="article:author" content="http://gustavopaes.net/" />
+
+  <link rel="alternate" type="application/rss+xml" title="GustavoPaes.Net" href="http://gustavopaes.net/rss.xml" />
+
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/highlight/github.css">
+
+  <script type="text/javascript" src="/static/js/highlight.pack.js" defer></script>
+
+  <script type="text/javascript">
+  "use strict";
+
+  var Async = function(src) {
+    var s = document.createElement('script');
+    s.src = src;
+    s.asyn = true;
+
+    document.getElementsByTagName('head')[0].appendChild(s);
+  };
+
+  window.adsbygoogle = [];
+
+  var Banner = function() {
+    adsbygoogle.push({});
+  };
+  </script>
+
+</head>
+<body>
+
+  <div class="grade">
+    <header id="header">
+      <div class="centraliza">
+        <h1 class="title">Gustavo Paes</h1>
+        <p>Programação e desenvolvimento Web desde 2001</p>
+        <hr />
+        <ul class="unstyled">
+          <li><a href="/">Início</a></li>
+          <li class="on"><a href="/blog">Blog</a></li>
+          <li><a href="/contato.html">Contato</a></li>
+        </ul>
+        <hr />
+      </div>
+    </header>
+
+    <!-- exemplo da home -->
+    <section class="centraliza text content">
+      <article>

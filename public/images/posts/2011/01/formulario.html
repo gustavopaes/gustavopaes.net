@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+    <meta name="robots" content="noindex, follow">
+
+    <title>Exemplo de formulário semântico</title>
+
+    <style type="text/css">
+    body { font-family:arial; }
+    form fieldset { margin-bottom:15px; }
+    form fieldset legend { font-weight:bold; }
+    form label { display:block; clear:both; overflow:hidden; margin-bottom:10px; }
+    form label strong { display:block; float:left; width:120px; text-align:right; padding:4px 5px 0 0; font-size:13px; }
+    </style>
+</head>
+<body>
+    
+    <h1>Exemplo para o post <a href="/blog/2011/formulario-semantico.html">formulário semântico</a></h1>
+    
+    <form name="exemplo" action="/" method="post">
+        
+        <fieldset>
+            <legend>Informações pessoais</legend>
+            
+            <label for="form_nomeCompleto">
+                <strong>Nome completo:</strong>
+                <input type="text" name="nomeCompleto" id="form_nomeCompleto">
+            </label>
+
+            <label for="form_email">
+                <strong>E-mail:</strong>
+                <input type="text" name="email" id="form_email">
+            </label>
+
+            <label for="form_cidade">
+                <strong>Cidade:</strong>
+                <input type="text" name="cidade" id="form_cidade">
+            </label>
+
+            <label for="form_uf">
+                <strong>UF:</strong>
+                <input type="text" name="uf" id="form_uf" maxlength="2" size="2">
+            </label>
+
+        </fieldset>
+        
+        <fieldset>
+            <legend>Informações profissionais</legend>
+            
+            <label for="form_empresa">
+                <strong>Empresa:</strong>
+                <input type="text" name="empresa" id="form_empresa">
+            </label>
+
+            <label for="form_profissao">
+                <strong>Profissão:</strong>
+                <input type="text" name="profissao" id="form_profissao">
+            </label>
+
+            <label for="form_duracao_start">
+                <strong>Período:</strong>
+                <select name="duracao_start" id="form_duracao_start">
+                    <option value=""></option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                </select>
+                
+                <select name="duracao_end" id="form_duracao_end">
+                    <option value="">Atual</option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                </select>
+            </label>
+        </fieldset>
+
+        <div><input type="button" value="Enviar"></div>
+
+    </form>
+    
+</body>
+</html>
