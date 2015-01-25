@@ -40,8 +40,10 @@ pre {width:98%; margin: 20px auto;}
 
 /* banners */
 .banner-250x250 {float: right; width: 250px; height: 250px; margin:0 0 20px 20px;}
+.banner-336x280 {float:right; width: 336px; height: 280px; margin: 0 0 20px 20px;}
 .banner-200x200 {float: right; width: 200px; height: 200px;}
 .banner-728x90 { background-color: #efefef; padding: 20px 0; text-align: center; margin: 30px auto; }
+.banner-728x15 { text-align: center; margin: 20px auto; }
 
 /*divisor de conteÃºdo*/
 hr { border-width: 0 0 3px; border-style: solid; border-bottom-color: #333333; margin:20px 0;}
@@ -117,6 +119,11 @@ i.facebook {background-position: 0 0; width: 24px; height: 24px; }
     margin: 20px auto;
   }
 
+  .banner-336x280 {
+    float: none;
+    margin: 20px auto;
+  }
+
   section p img {
     max-width: 400px;
     height: auto;
@@ -124,7 +131,8 @@ i.facebook {background-position: 0 0; width: 24px; height: 24px; }
 }
 
 @media screen and (max-width: 750px) {
-  .banner-728x90 {
+  .banner-728x90,
+  .banner-728x15 {
     display: none;
   }
 
