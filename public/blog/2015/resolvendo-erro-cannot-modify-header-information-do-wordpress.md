@@ -26,3 +26,4 @@ Para descobrir isso, no terminar do seu servidor, onde os arquivos do Wordpress 
 
 O resultado do comando será os arquivos que estão salvos com `BOM`. Se nenhum arquivo for retornado, então você está com outro tipo de problema.
 
+Fonte: http://stackoverflow.com/a/2858757
