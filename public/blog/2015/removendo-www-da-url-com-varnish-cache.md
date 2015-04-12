@@ -3,7 +3,7 @@ author: Gustavo Paes
 title: Removendo o www da url com Varnish Cache
 description: Permitindo que o seu domínio responda com o www e sem ele, você pode duplicar conteúdo no Google e dividir relatórios de audiência. Veja como remover (ou sempre foçar) o www de sua URL e resolver esses problemas.
 date: 2015-04-12 02:00pm
-categories: blog, wordpress, php
+categories: blog, varnish cache, backend
 ---
 
 Acessando **www.gustavopaes.net** você será automaticamente redirecionado para **gustavopaes.net**. Isso é feito para evitar que o conteúdo seja indexado duplicado ou então que a audiência no Google Analytics seja dividida em dois relatórios: um para cada domínio.
