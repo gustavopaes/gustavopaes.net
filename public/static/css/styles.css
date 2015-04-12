@@ -39,10 +39,11 @@ pre {width:98%; margin: 20px auto;}
 .centraliza {max-width: 900px; width:100%; margin-left: auto; margin-right: auto;}
 
 /* banners */
+.publicidade {background-color: #efefef;padding: 20px; text-align: center;}
 .banner-250x250 {float: right; width: 250px; height: 250px; margin:0 0 20px 20px;}
 .banner-336x280 {float:right; width: 336px; height: 280px; margin: 0 0 20px 20px;}
 .banner-200x200 {float: right; width: 200px; height: 200px;}
-.banner-728x90 { background-color: #efefef; padding: 20px 0; text-align: center; margin: 30px auto; }
+.banner-728x90 { margin: 30px auto; }
 .banner-728x15 { text-align: center; margin: 20px auto; }
 
 /*divisor de conteÃºdo*/
@@ -113,7 +114,7 @@ i.twitter {background-position: 0 -25px; width: 24px; height: 24px; }
 i.facebook {background-position: 0 0; width: 24px; height: 24px; }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
   .banner-250x250 {
     float: none;
     margin: 20px auto;
@@ -122,6 +123,7 @@ i.facebook {background-position: 0 0; width: 24px; height: 24px; }
   .banner-336x280 {
     float: none;
     margin: 20px auto;
+    width: 100%;
   }
 
   section p img {
@@ -133,7 +135,7 @@ i.facebook {background-position: 0 0; width: 24px; height: 24px; }
 @media screen and (max-width: 750px) {
   .banner-728x90,
   .banner-728x15 {
-    display: none;
+    width: 100%;
   }
 
   section p img {
