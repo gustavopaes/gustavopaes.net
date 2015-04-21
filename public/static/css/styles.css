@@ -113,7 +113,7 @@ i.twitter {background-position: 0 -25px; width: 24px; height: 24px; }
 i.facebook {background-position: 0 0; width: 24px; height: 24px; }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   .banner-250x250 {
     float: none;
     margin: 20px auto;
@@ -139,5 +139,9 @@ i.facebook {background-position: 0 0; width: 24px; height: 24px; }
   section p img {
     max-width: 750px;
     height: auto;
+  }
+
+  header li:last-child {
+  	display: none;
   }
 }
