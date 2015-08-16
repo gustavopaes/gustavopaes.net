@@ -1,0 +1,161 @@
+/* simple reset */
+body,
+div, header, article, section,
+h1, h2, h3, h4, h5,
+p, a, hr,
+ul.unstyled, ul.unstyled li, ol.unstyled, ol.unstyled li, 
+table, td, th,
+dd, dl, dt,
+form {padding: 0; margin: 0;}
+
+.hidden {display: none;}
+
+/*listas*/
+ul.unstyled li,
+ol.unstyled li {list-style-type:none;}
+
+/*blocks*/
+div, header, article, section,
+h1, h2, h3, h4, h5,
+p,
+form,
+.centraliza {display: block;}
+
+/*inlines*/
+a {color: #005580; text-decoration: none;}
+
+/*corpo*/
+body {font-family: 'Ubuntu Condensed', sans-serif; font-size: 1em;}
+.grade {margin: 15px 15px 0;}
+
+/*tipo de fonte de cada conteÃºdo*/
+h1, h2, h3 {font-family: 'Ubuntu Condensed', sans-serif;}
+.text {font-family: 'Arial', sans-serif;}
+.info {font-family: 'Arial', sans-serif;}
+
+pre {width:98%; margin: 20px auto;}
+
+/*centraliza conteÃºdo*/
+.centraliza {max-width: 900px; width:100%; margin-left: auto; margin-right: auto;}
+
+/* banners */
+.banner-250x250 {float: right; width: 250px; height: 250px; margin:0 0 20px 20px;}
+.banner-336x280 {float:right; width: 336px; height: 280px; margin: 0 0 20px 20px;}
+.banner-200x200 {float: right; width: 200px; height: 200px;}
+.banner-728x90 { background-color: #efefef; padding: 20px 0; text-align: center; margin: 30px auto; }
+.banner-728x15 { text-align: center; margin: 20px auto; }
+
+/*divisor de conteÃºdo*/
+hr { border-width: 0 0 3px; border-style: solid; border-bottom-color: #333333; margin:20px 0;}
+hr:first-child {margin-top: 0;}
+
+hr.clear {border: 0; height: 0px; clear: both; padding: 0; margin: 0;}
+
+/*header*/
+header h1 {font-size: 4em; font-weight: normal;}
+header p {font-size: 1.2em; margin: 10px 0 0 0;}
+header li {display: inline-block;}
+header li a {padding: 10px 25px; line-height: 22px; font-size: 1.4em;}
+header li a:hover {background-color: #666; color: #fff;}
+
+header + section,
+header + article,
+header + div {margin-top: 20px;}
+
+/*footer*/
+footer {width: 100%; background-color: #333; color: #fff; padding: 25px 0; margin-top: 30px;}
+footer a {color: #fff;}
+footer p {margin-left: 15px;}
+footer div {position: relative;}
+footer .topo {position: absolute; top: 0; right: 15px;}
+
+/*conteÃºdo das pÃ¡ginas*/
+section {position: relative; overflow: hidden;}
+section article h1 {font-size: 2.3em;margin: 30px 0 10px; color:#333;}
+section article h2 {font-size: 1.6em;margin: 30px 0 10px; color:#333;}
+section article h1:first-child,
+section article h2:first-child {margin-top:0;}
+section article .p-info { font-weight: bold; font-size: 13px; display: block; line-height: 25px; }
+section p {line-height: 26px; margin: 15px 0;}
+section li {margin-top: 10px;}
+section li:first-child {margin-top: 0;}
+section a {text-decoration: underline;}
+section .image {display:block; margin: 1.5em 0; text-align: center;}
+section .image img {}
+
+.content .title {font-weight: bold}
+
+/*indices*/
+.content .article {border-bottom:1px solid #ccc;padding: 20px 0;}
+.content .last-article {border-bottom: 0;}
+.content .article h1 {font-size: 26px;}
+.content .article h1 a {text-decoration: none;}
+.content .article p span {display: block;margin:5px 0;}
+.content .article a:hover {color:#66657A;}
+
+.content .paginacao {text-align: center;}
+.content .paginacao a {margin-right: 10px;margin-left:10px;}
+.content .paginacao a:first-child {margin-right: 10px;margin-left:0;}
+
+.text-info {font-size: .8em; display: block; margin-bottom: 15px;}
+
+  .share {text-align:left; margin-top: 15px; height: 24px; border-top: 1px solid #ccc; padding-top: 15px;}
+  .share span {font-weight: bold; color: #333; font-size: .8em; float:left; line-height: 24px; margin-right: 10px;}
+  .share a {display: inline-block; width: 24px; height: 24px; }
+
+table { width: 100%; border:0; }
+table td { text-align: center; }
+table img { max-width: 350px; border: 2px solid #cfcfcf; }
+
+/*sprite*/
+i {background-image: url('../images/sprites.png'); background-repeat: no-repeat;display:inline-block;}
+i.twitter {background-position: 0 -25px; width: 24px; height: 24px; }
+i.facebook {background-position: 0 0; width: 24px; height: 24px; }
+
+
+@media screen and (max-width: 600px) {
+  .banner-250x250 {
+    float: none;
+    margin: 20px auto;
+  }
+
+  .banner-336x280 {
+    float: none;
+    margin: 20px auto;
+  }
+
+  section p img {
+    max-width: 400px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .banner-728x90,
+  .banner-728x15 {
+    display: none;
+  }
+
+  section p img {
+    max-width: 750px;
+    height: auto;
+  }
+
+  header li:last-child {
+  	display: none;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  header li a {
+    font-size: 1.4em;
+    padding: 10px 15px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  header li a {
+    font-size: 1.2em;
+    padding: 10px;
+  }
+}
