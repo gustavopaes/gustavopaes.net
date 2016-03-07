@@ -9,4 +9,4 @@ robots: noindex,follow
 
 Está com dúvidas ou tem alguma sugestão? Entre em contato:
 
-![](http://gustavopaes.net/images/posts/2010/06/email.gif)
+![](//gustavopaes.net/images/posts/2010/06/email.gif)
