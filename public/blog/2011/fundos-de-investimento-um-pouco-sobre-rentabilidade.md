@@ -11,7 +11,7 @@ Esse post foge totalmente do que venho escrevendo nos últimos anos, seja nesse 
 
 Será que vale a pena deixar o dinheiro na poupança? Ou será que vale mais colocar em fundos de investimento de renda fixa, mesmo tendo que pagar a taxa de administração e imposto de renda?
 
-<a  class="block-image center"><img src="http://gustavopaes.net/images/posts/2011/01/dinheiro.jpg" alt="" title="dinheiro" width="720" height="460" class="alignright size-full wp-image-588" /></a>
+<a  class="block-image center"><img src="//gustavopaes.net/images/posts/2011/01/dinheiro.jpg" alt="" title="dinheiro" width="720" height="460" class="alignright size-full wp-image-588" /></a>
 
 Até ontem tinha essa dúvida e resolvi pesquisar. Li diversos e diferentes sites e até leis e documentos da Receita Federal. Reli o prospecto do banco para entender quando e quanto de taxas são cobradas e fiz uma planilha o Excel para comparar diversos investimentos com a poupança.
 
@@ -63,7 +63,7 @@ Embora a diferença de 0,12% seja mínima, multiplique por 24 meses e terá um r
 
 Quer ver? Vamos pegar como base um investimento de R$ 5.000,00, investidos durante 48 meses (2 anos) e comparar esse dois fundos com a poupança.
 
-<a class="block-image center" href="http://gustavopaes.net/images/posts/2011/01/comparacao-fundos.gif"><img src="http://gustavopaes.net/images/posts/2011/01/comparacao-fundos.gif" alt="Comparação de fundos de renda fixa com a poupança" title="Comparação de fundos de renda fixa com a poupança" width="631" class="alignnone size-full wp-image-577" /></a>
+<a class="block-image center" href="//gustavopaes.net/images/posts/2011/01/comparacao-fundos.gif"><img src="//gustavopaes.net/images/posts/2011/01/comparacao-fundos.gif" alt="Comparação de fundos de renda fixa com a poupança" title="Comparação de fundos de renda fixa com a poupança" width="631" class="alignnone size-full wp-image-577" /></a>
 
 Percebeu a diferença do rendimento à longo prazo? São R$ 362,00 a mais em sua conta, sem suor. E viu que não vale a pena investir no _Super RF_? De super, só tem o nome. Você deixaria de ganhar R$ 61,00.
 
@@ -102,7 +102,7 @@ Se você tem um dinheiro guardado na poupança, faça uma pesquisa no seu banco 
 Os cálculos dos exemplos foram feitos na planilha que fiz para comparação de fundos. Na teoria você pode comparar diversos fundos e até o Tesouro Direto &#8212; que sempre ganha na rentabilidade.
 
 O download da planilha pode ser feito nessa URL:
-http://gustavopaes.net/images/posts/2011/01/lucro.xlsx
+//gustavopaes.net/images/posts/2011/01/lucro.xlsx
 
 E abaixo os documentos mais importantes para leitura.
 

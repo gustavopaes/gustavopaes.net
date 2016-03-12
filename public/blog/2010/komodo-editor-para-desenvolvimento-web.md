@@ -24,9 +24,9 @@ Algumas [características do Komodo][]:
 Abaixo algumas imagens do editor.
 
 :gallery
-[![](http://gustavopaes.net/images/posts/2010/12/komodo-tela01.gif "Helper")](http://gustavopaes.net/images/posts/2010/12/komodo-tela01.gif)
-[![](http://gustavopaes.net/images/posts/2010/12/komodo-tela02.gif "Edição em multi-coluna")](http://gustavopaes.net/images/posts/2010/12/komodo-tela02.gif)
-[![](http://gustavopaes.net/images/posts/2010/12/komodo-tela03.gif "Auto-complete")](http://gustavopaes.net/images/posts/2010/12/komodo-tela03.gif)
+[![](//gustavopaes.net/images/posts/2010/12/komodo-tela01.gif "Helper")](//gustavopaes.net/images/posts/2010/12/komodo-tela01.gif)
+[![](//gustavopaes.net/images/posts/2010/12/komodo-tela02.gif "Edição em multi-coluna")](//gustavopaes.net/images/posts/2010/12/komodo-tela02.gif)
+[![](//gustavopaes.net/images/posts/2010/12/komodo-tela03.gif "Auto-complete")](//gustavopaes.net/images/posts/2010/12/komodo-tela03.gif)
 :/gallery
 
 Além das _features_ acima, o Komodo Edit consegue identificar, em arquivos PHP por exemplo, quais são os tipos de variáveis, onde elas foram definidas e cria ainda links para a documentação.

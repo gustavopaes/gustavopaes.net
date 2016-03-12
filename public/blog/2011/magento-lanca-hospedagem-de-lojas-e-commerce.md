@@ -13,7 +13,7 @@ Só que, diferentemente do WordPress.com, o Magento Go cobra, e não me pareceu 
 
 O plano que eles recomendam é de U$65 ao mês, agora com respeitáveis 1000 skus para cadastrar e com suporte via telefone. Embora eu tenha achado caro, pode ser uma boa para pessoas que já tem uma loja física ou virtual em algum outro lugar e esteja tendo problemas de lentidão ou para dar manutenção.
 
-<a href="http://www.magentocommerce.com/go/"><img src="http://gustavopaes.net/images/posts/2011/04/magento.go_.png" alt="Magento Go" title="Magento Go" width="203" height="60" class="aligncenter size-full wp-image-686" /></a>
+<a href="http://www.magentocommerce.com/go/"><img src="//gustavopaes.net/images/posts/2011/04/magento.go_.png" alt="Magento Go" title="Magento Go" width="203" height="60" class="aligncenter size-full wp-image-686" /></a>
 
 Esse tipo de serviço <a href="http://www.magentocommerce.com/go/com-vs-go/" target="_blank" title="Magento Community vs. Magento Go">é bom no aspecto de _tranquilidade_</a>. Não é preciso ficar atualizando o Magento para a última versão nem se preocupar se os sistemas de pagamentos estão funcionando adequadamente ou não. O serviço fará isso para você.
 

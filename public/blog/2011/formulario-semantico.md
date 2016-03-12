@@ -29,5 +29,5 @@ A tag `label` deve envolver um campo e um título equivalentes. Por exemplo, o t
 
 O mais importante do `label` é o atributo `for`. Ele indica qual campo do formulário deve ganhar o foco quando o texto for clicado.
 
-Veja aqui um <a href="http://gustavopaes.net/images/posts/2011/01/formulario.html" target="_blank">formulário semântico</a> usando as duas tags acima e uma customização básica em CSS.
+Veja aqui um <a href="//gustavopaes.net/images/posts/2011/01/formulario.html" target="_blank">formulário semântico</a> usando as duas tags acima e uma customização básica em CSS.
 

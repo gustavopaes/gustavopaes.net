@@ -32,7 +32,7 @@ O **primeiro parâmetro deve ser a função** que será executada e o **segundo 
 
 O que você vai ver no navegador é algo como a imagem abaixo.
 
-<img src="http://gustavopaes.net/images/posts/2010/12/setTimeout_setInteval.gif" alt="setTimeout e setInterval" title="setTimeout e setInterval" width="369" height="152" class="alignnone size-full wp-image-460" />
+<img src="//gustavopaes.net/images/posts/2010/12/setTimeout_setInteval.gif" alt="setTimeout e setInterval" title="setTimeout e setInterval" width="369" height="152" class="alignnone size-full wp-image-460" />
 
 ## Formas de chamada
 

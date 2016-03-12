@@ -49,5 +49,5 @@ Troque o 1 por 0:
 
 4. Ative o módulo do PagSeguro em sua administração (Sistema > Configuração > Métodos de Pagamento) e tudo resolvido.
 
-![](http://gustavopaes.net/images/posts/2010/11/tumblr_kqu30iliUK1qzmums.jpg "PagSeguro no Magento eCommerce")
+![](//gustavopaes.net/images/posts/2010/11/tumblr_kqu30iliUK1qzmums.jpg "PagSeguro no Magento eCommerce")
 

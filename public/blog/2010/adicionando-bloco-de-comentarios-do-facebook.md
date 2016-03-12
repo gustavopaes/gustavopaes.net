@@ -56,7 +56,7 @@ O APP ID deve ser trocado pelo APP ID da sua aplicação. Para conseguir um, ace
 
 Feito isso, o bloco de comentários já deve funcionar, como na imagem abaixo.
 
-![](http://gustavopaes.net/images/posts/2010/05/bloco-de-comentario.gif "Bloco de comentários usando APP do Facebook")
+![](//gustavopaes.net/images/posts/2010/05/bloco-de-comentario.gif "Bloco de comentários usando APP do Facebook")
 
 ## Personalizando o bloco
 

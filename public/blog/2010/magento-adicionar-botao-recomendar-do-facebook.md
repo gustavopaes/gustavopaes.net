@@ -21,7 +21,7 @@ Usei esse código para adicionar um "Recomendar" no site <a href="http://heramod
 
 Ao clicar em "Recomendar", uma pop-up se abre para solicitar login e senha do usuário no Facebook e pedir acesso às informações básicas do usuário. Assim que o usuário fizer o login e liberar a aplicação, a pop-up se fecha e uma janela na própria página do site se abre com informações da página.
 
-![](http://gustavopaes.net/images/posts/2010/10/bloco-de-recomendacao.gif "Bloco de recomendação do Facebook")
+![](//gustavopaes.net/images/posts/2010/10/bloco-de-recomendacao.gif "Bloco de recomendação do Facebook")
 
 É dessa forma que o produto será "anunciado" no Facebook. Perceba que todas as informações foram capturadas automaticamente pelo Facebook: _thumb_ do vestido, título e descrição do produto.
 
@@ -37,7 +37,7 @@ Dê um nome para ele &#8212; de preferência o nome do site, e siga adiante. Na 
 
 Feito isso, grave em algum lugar o ID do aplicativo. Ele fica disponível em todas as abas de configuração ou na sua [página de desenvolvimento](http://www.facebook.com/developers/). Usaremos esse código mais a frente.
 
-![](http://gustavopaes.net/images/posts/2010/10/app-id.gif "PP ID do Facebook")
+![](//gustavopaes.net/images/posts/2010/10/app-id.gif "PP ID do Facebook")
 
 ### O código base para tudo funcionar
 

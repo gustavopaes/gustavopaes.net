@@ -52,9 +52,9 @@ Recomendo digitar o código acima no [Firebug](http://getfirebug.com/) ou no con
 
 Abaixo três imagens com o resultado de cada um dos `console.dir()` do código.
 
-[![](http://gustavopaes.net/images/posts/2010/07/array-original.gif)](http://gustavopaes.net/images/posts/2010/07/array-original.gif "Array sem ordenação")
-[![](http://gustavopaes.net/images/posts/2010/07/array-ordenado-por-nome.gif)](http://gustavopaes.net/images/posts/2010/07/array-ordenado-por-nome.gif "Array ordenado pelo nome")
-[![](http://gustavopaes.net/images/posts/2010/07/array-ordenado-por-idade.gif)](http://gustavopaes.net/images/posts/2010/07/array-ordenado-por-idade.gif "Array ordenado pela idade")
+[![](//gustavopaes.net/images/posts/2010/07/array-original.gif)](//gustavopaes.net/images/posts/2010/07/array-original.gif "Array sem ordenação")
+[![](//gustavopaes.net/images/posts/2010/07/array-ordenado-por-nome.gif)](//gustavopaes.net/images/posts/2010/07/array-ordenado-por-nome.gif "Array ordenado pelo nome")
+[![](//gustavopaes.net/images/posts/2010/07/array-ordenado-por-idade.gif)](//gustavopaes.net/images/posts/2010/07/array-ordenado-por-idade.gif "Array ordenado pela idade")
 
 Perceba que, para alterar o tipo de ordenação &#8212; crescente ou decrescente &#8212; basta alterar o símbolo de comparação. Dessa forma, para ordenar por idade, de forma decrescente, a função ficaria da seguinte forma:
 

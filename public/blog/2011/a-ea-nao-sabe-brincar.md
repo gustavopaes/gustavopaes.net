@@ -10,7 +10,7 @@ A <a href="http://www.ea.com/" target="_blank">Eletronic Arts</a> tem alguns dos
 
 Em geral instalava a versão beta, pegava o serial de um amigo ou fazia o download crackeado mesmo. Nunca tive problemas. Até resolver comprar o original. O jogo: <a href="http://www.ea.com/games/battlefield-2-complete-collection" target="_blank">Battlefield 2 Complete Collection</a>. Vem todos os _plus_ e _packs_ do clássico Battlefield 2, em um único DVD. Estava em promoção e paguei _baratin_.
 
-<a href="http://gustavopaes.net/images/posts/2011/03/Battlefield_800.jpg"><img src="http://gustavopaes.net/images/posts/2011/03/Battlefield_800.jpg" alt="Battlefield 2" title="Battlefield 2" width="800" height="600" class="aligncenter size-full wp-image-678" /></a>
+<a href="//gustavopaes.net/images/posts/2011/03/Battlefield_800.jpg"><img src="//gustavopaes.net/images/posts/2011/03/Battlefield_800.jpg" alt="Battlefield 2" title="Battlefield 2" width="800" height="600" class="aligncenter size-full wp-image-678" /></a>
 
 Na primeira instalação não tive problemas. Mandei instalar tudo, criei uma conta &#8212; exigido para ativar alguns mapas novos &#8212; e ativei com os diversos seriais que vieram junto ao manual.
 

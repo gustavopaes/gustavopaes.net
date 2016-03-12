@@ -40,9 +40,9 @@ A conversão e a _chumbagem_ da legenda no vídeo são feitas durante o mesmo pr
 
 Na janela que abrir, clique em "Configurações de saída". É nessa tela que você irá dizer qual a legenda que deve ser usada para montar o vídeo final. É nessa tela também que você pode definir a definição do vídeo. Eu sempre deixo a opção _MP4 720p AVC_, mas você pode mudar caso o vídeo que você possui tem menor qualidade.
 
-[![Tela inicial do Format Factory](http://gustavopaes.net/images/posts/2013/09/format_factory-inicial.png)](http://gustavopaes.net/images/posts/2013/09/format_factory-inicial.png) | [![Adicionar legenda para o vídeo](http://gustavopaes.net/images/posts/2013/09/format_factory_adicionar-legenda.png)](http://gustavopaes.net/images/posts/2013/09/format_factory_adicionar-legenda.png)
+[![Tela inicial do Format Factory](//gustavopaes.net/images/posts/2013/09/format_factory-inicial.png)](//gustavopaes.net/images/posts/2013/09/format_factory-inicial.png) | [![Adicionar legenda para o vídeo](//gustavopaes.net/images/posts/2013/09/format_factory_adicionar-legenda.png)](//gustavopaes.net/images/posts/2013/09/format_factory_adicionar-legenda.png)
 ----|----
-[![Escolha o formato do vídeo](http://gustavopaes.net/images/posts/2013/09/format_factory-formato.png)](http://gustavopaes.net/images/posts/2013/09/format_factory-formato.png) | [![Iniciar produção do vídeo](http://gustavopaes.net/images/posts/2013/09/format_factory-iniciar.png)](http://gustavopaes.net/images/posts/2013/09/format_factory-iniciar.png)
+[![Escolha o formato do vídeo](//gustavopaes.net/images/posts/2013/09/format_factory-formato.png)](//gustavopaes.net/images/posts/2013/09/format_factory-formato.png) | [![Iniciar produção do vídeo](//gustavopaes.net/images/posts/2013/09/format_factory-iniciar.png)](//gustavopaes.net/images/posts/2013/09/format_factory-iniciar.png)
 
 Configurado a legenda e o formato de saída do vídeo, clique em OK nessa tela. De volta à tela anterior, clique em "Adicionar arquivo". Como estamos adicionando uma legenda ao vídeo, não é possível adicionar dois arquivos na fila de conversão, mas se você estiver apenas convertendo para formato mobile, você pode adicionar vários arquivos diferentes, que eles serão convertidos usando as mesmas configurações.
 

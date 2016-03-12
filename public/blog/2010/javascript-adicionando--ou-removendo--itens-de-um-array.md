@@ -33,7 +33,7 @@ console.log("Após o unshift(): " + arr);
 
 O código acima terá como resultado a seguinte seqüência:
 
-<a href="http://gustavopaes.net/images/posts/2010/07/trabalhando-com-array-javascript.gif"><img class="aligncenter size-full wp-image-161" title="Resultado dos comandos" src="http://gustavopaes.net/images/posts/2010/07/trabalhando-com-array-javascript.gif" alt="Resultado dos comandos" width="197" height="89" /></a>
+<a href="//gustavopaes.net/images/posts/2010/07/trabalhando-com-array-javascript.gif"><img class="aligncenter size-full wp-image-161" title="Resultado dos comandos" src="//gustavopaes.net/images/posts/2010/07/trabalhando-com-array-javascript.gif" alt="Resultado dos comandos" width="197" height="89" /></a>
 
 ## Trabalhando com itens intermediários
 

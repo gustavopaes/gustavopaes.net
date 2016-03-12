@@ -15,7 +15,7 @@ No Bradesco você pode usar o próprio iPhone para obter esses números. As form
 
 Você vai fazer uma operação bancária e lhe é solicitado o número que aparece no token. Você digita os números e, como uma mágica, a operação é liberada.
 
-![Exemplo de token bancário da RSA](http://gustavopaes.net/images/posts/2010/12/SecureID_token_new_opt.jpg "SecureID Token")
+![Exemplo de token bancário da RSA](//gustavopaes.net/images/posts/2010/12/SecureID_token_new_opt.jpg "SecureID Token")
 
 Mas você sabe como o banco sabe que o número digitado é o correto, mesmo ele mudando a cada 30-60 segundos?
 

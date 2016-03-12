@@ -14,8 +14,8 @@ A primeira nova funcionalidade é a aba _console_ onde podem ser exibidos os _de
 E a segunda novidade que vai bem útil é a aba _network_ que mostra as requisições que estão sendo feitas.
 
 :gallery
-[![](http://gustavopaes.net/images/posts/2011/03/developer-tools_console-150x150.gif)](http://gustavopaes.net/images/posts/2011/03/developer-tools_console.gif "IE Developer Tools - Console")
-[![](http://gustavopaes.net/images/posts/2011/03/developer-tools_network-150x150.gif)](http://gustavopaes.net/images/posts/2011/03/developer-tools_network.gif "IE Developer Tools - Network")
+[![](//gustavopaes.net/images/posts/2011/03/developer-tools_console-150x150.gif)](//gustavopaes.net/images/posts/2011/03/developer-tools_console.gif "IE Developer Tools - Console")
+[![](//gustavopaes.net/images/posts/2011/03/developer-tools_network-150x150.gif)](//gustavopaes.net/images/posts/2011/03/developer-tools_network.gif "IE Developer Tools - Network")
 :/gallery
 
 

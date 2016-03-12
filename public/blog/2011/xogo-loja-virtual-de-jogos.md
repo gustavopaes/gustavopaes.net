@@ -19,7 +19,7 @@ E é essa a grande vantagem: permitir que você faça o download do jogo que aca
 
 Com mesmo modelo de negócio &#8212; e com layout parecido &#8212; da loja <a title="Steam store" href="http://store.steampowered.com/?l=english" target="_blank">Steam</a>, oficial da Valve, o Xogo possui um processo de compra muito simples.
 
-<img alt="Xogo Gaming Network" src="http://gustavopaes.net/images/posts/2011/12/logo.png" title="Logo Xogo" width="250" height="72" class="aligncenter" style="display:block;margin:10px auto;" />
+<img alt="Xogo Gaming Network" src="//gustavopaes.net/images/posts/2011/12/logo.png" title="Logo Xogo" width="250" height="72" class="aligncenter" style="display:block;margin:10px auto;" />
 
 Diferentemente da Steam, que permite pagamento direto com cartão de crédito, paypal e outros métodos internacionais, o Xogo permite apenas via <a title="Pagamento Digital" href="https://www.pagamentodigital.com.br/site/" target="_blank">Pagamento Digital</a>, uma empresa do Buscapé.
 
@@ -27,7 +27,7 @@ Pelo _Pagamento Digital_ você consegue efetuar sua compra pelo cartão de créd
 
 Com o link de download em mãos, foi só baixar um programa de gerenciamento de download do próprio Xogo e esperar os 5.5gb serem baixados. A taxa de download foi de em média 500kb/s. Uma taxa razoável para a média das conexões no Brasil, mas onde eu estava consegue fazer download na média de 2mb/s.
 
-<a href="http://gustavopaes.net/images/posts/2011/12/update-battlefield.png" class="block-image" style="float:right;margin:10px 0 10px 10px;"><img src="http://gustavopaes.net/images/posts/2011/12/update-battlefield.png" alt="Update do Battlefield" title="Update do Battlefield" width="230" class="size-full wp-image-790" /></a>
+<a href="//gustavopaes.net/images/posts/2011/12/update-battlefield.png" class="block-image" style="float:right;margin:10px 0 10px 10px;"><img src="//gustavopaes.net/images/posts/2011/12/update-battlefield.png" alt="Update do Battlefield" title="Update do Battlefield" width="230" class="size-full wp-image-790" /></a>
 
 Feito o download foi só instalar o jogo. Mas, ao rodá-lo pela primeira vez foi solicitado uma atualização. O sistema de atualização do jogo não mostra qual o tamanho da atualização, mas <del>pela demora acredito que seja quase o tamanho total do jogo, ou o servidor era lento (não mostra a velocidade de download também)</del> descobri que foram 2.5GB a mais de download extra.
 

@@ -15,7 +15,7 @@ Tudo isso é bom e ajuda muito no desenvolvimento. Mas, infelizmente desenvolvem
 
 E como debugar sem o Firebug? Instalando o [IE Developer Toolbar](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=95e06cbe-4940-4218-b75d-b8856fced535).
 
-[![Working with HTML and CSS on IE Developer Toolbar](http://gustavopaes.net/images/2007_firebug-para-internet-explorer.png "Working with HTML and CSS on IE Developer Toolbar")](http://blogs.msdn.com/b/ie/archive/2008/09/03/developer-tools-in-internet-explorer-8-beta-2.aspx)
+[![Working with HTML and CSS on IE Developer Toolbar](//gustavopaes.net/images/2007_firebug-para-internet-explorer.png "Working with HTML and CSS on IE Developer Toolbar")](http://blogs.msdn.com/b/ie/archive/2008/09/03/developer-tools-in-internet-explorer-8-beta-2.aspx)
 
 A partir do Internet Explorer 8 o IE Dev Toolbar vem por padrão e para ativar na página basta pressionar o F12. Não é tão bom quanto o Firebug mas é melhor do que nada. Não é possível obter os requests da página, mas para isso podemos verificar no próprio Firefox.
 
