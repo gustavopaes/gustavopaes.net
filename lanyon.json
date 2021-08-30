@@ -1,7 +1,7 @@
 {
     "PortNum": 9999,
-    "TemplateDir": "/var/www/gustavopaes.net/basic",
-    "PublicDir": "/var/www/gustavopaes.net/public",
+    "TemplateDir": "gustavopaes.net/basic",
+    "PublicDir": "gustavopaes.net/public",
     "FormatDate": "2006-01-02 03:04pm",
     "Less": ["--compress"],
     "Sitemap": ["blog/"],
